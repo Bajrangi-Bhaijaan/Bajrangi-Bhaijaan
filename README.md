@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bajrangi-Bhaijaan
-- 👀 I’m interested in Exploring
-- 🌱 I’m currently learning DATA SCIENCE
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👀 I’m interested in @Exploring
+- 🌱 I’m currently learning @DATA SCIENCE
+- 💞️ I’m looking to collaborate on @Open Source Projects
 - 📫 How to reach me @youranalystpartha@gmail.com
 
 <!---
