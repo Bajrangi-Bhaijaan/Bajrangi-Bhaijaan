@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bajrangi-Bhaijaan
+- 👋 Hi, I’m @partha pratim kalita
 - 👀 I’m interested in @Exploring
 - 🌱 I’m currently learning @DATA SCIENCE
 - 💞️ I’m looking to collaborate on @Open Source Projects
